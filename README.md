@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning DevOps features
 
 List of projects:
-* [**TimelapseDrone repository**](https://github.com/Barabaniuk/TimelapseDrone) - Wheel Drone Control System designed for slow-motion video shooting
-* [**TimelapseDrone**](https://github.com/Barabaniuk/MotorTestingPlatform) - Mobile platform for testing electric motors.
+* [**TimelapseDrone**](https://github.com/Barabaniuk/TimelapseDrone) - Wheel Drone Control System designed for slow-motion video shooting
+* [**MotorTestingPlatform**](https://github.com/Barabaniuk/MotorTestingPlatform) - Mobile platform for testing electric motors.
    
 
 <!---
