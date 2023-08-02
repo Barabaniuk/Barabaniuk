@@ -5,7 +5,7 @@
 List of projects:
 * [**TimelapseDrone**](https://github.com/Barabaniuk/TimelapseDrone)         - Wheel Drone Control System designed for slow-motion video shooting
 * [**MotorTestingPlatform**](https://github.com/Barabaniuk/MotorTestingPlatform)          - Mobile platform for testing electric motors.
-   
+* [**Engraver**](https://github.com/Barabaniuk/Engraver)          - Engraver machine designed for stone engraving using solenoid with engraving cutter.
 
 <!---
 Barabaniuk/Barabaniuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
