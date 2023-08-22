@@ -8,6 +8,9 @@ List of projects:
 * [**Engraver**](https://github.com/Barabaniuk/Engraver)          - Engraver machine designed for stone engraving using solenoid with engraving cutter.
 * [**IrrigationControl**](https://github.com/Brabn/IrrigationControl)          - Irrigation control system for for automatic maintenance of plant climate parameterssensors, with web interface and remote informing via mobile network
 * [**FlowControl**](https://github.com/Brabn/FlowControl)    - Automatic control system for fluid transfer systems with desktop application for control, display and logging
+* [**Presenter**](https://github.com/Brabn/Presenter) - Presenter for playing commercials to visitors of presentations
+* [**StairsLights**](https://github.com/Brabn/StairsLights/) - Stair lighting control system with traveling wave effect.
+
 
 <!---
 Barabaniuk/Barabaniuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
