@@ -11,7 +11,7 @@ List of projects:
 * [**Presenter**](https://github.com/Brabn/Presenter) - Presenter for playing commercials to visitors of presentations
 * [**StairsLights**](https://github.com/Brabn/StairsLights/) - Stair lighting control system with traveling wave effect
 * [**GyroscopicMeter**](https://github.com/Brabn/GyroscopicMeter/) - System for measuring the dynamic characteristics of a car by three-axis accelerometer/gyroscope
-
+* [**BlinkPhotoGlass**](https://github.com/Brabn/BlinkPhotoGlasses/) - Glasses that take photos of the field of view using a blinking sensor and transfer the image to the cloud
 
 
 <!---
