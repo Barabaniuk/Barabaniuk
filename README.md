@@ -12,7 +12,7 @@ List of projects:
 * [**StairsLights**](https://github.com/Brabn/StairsLights/) - Stair lighting control system with traveling wave effect
 * [**GyroscopicMeter**](https://github.com/Brabn/GyroscopicMeter/) - System for measuring the dynamic characteristics of a car by three-axis accelerometer/gyroscope
 * [**BlinkPhotoGlass**](https://github.com/Brabn/BlinkPhotoGlasses/) - Glasses that take photos of the field of view using a blinking sensor and transfer the image to the cloud
-
+* [**ReadingSensorsArray**](https://github.com/Brabn/ReadingSensorsArray/) - System designed to reading an array of analog sensors and display the results matrix in a convenient form (on a PC screen)
 
 <!---
 Barabaniuk/Barabaniuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
