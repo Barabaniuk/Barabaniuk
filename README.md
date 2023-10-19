@@ -13,7 +13,9 @@ List of projects:
 * [**GyroscopicMeter**](https://github.com/Brabn/GyroscopicMeter/) - System for measuring the dynamic characteristics of a car by three-axis accelerometer/gyroscope
 * [**BlinkPhotoGlass**](https://github.com/Brabn/BlinkPhotoGlasses/) - Glasses that take photos of the field of view using a blinking sensor and transfer the image to the cloud
 * [**ReadingSensorsArray**](https://github.com/Brabn/ReadingSensorsArray/) - System designed to reading an array of analog sensors and display the results matrix in a convenient form (on a PC screen)
-
+* [**UltrasonicAarmSystem**](https://github.com/Brabn/UltrasonicAarmSystem/) - Alarm system with ultrasonic proximity sensors
+* [**WirelessMotorControl**](https://github.com/Brabn/WirelessMotorControl/) - Wireless Motor Control System for opening gates, blinds or turning solar panels
+  
 <!---
 Barabaniuk/Barabaniuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
