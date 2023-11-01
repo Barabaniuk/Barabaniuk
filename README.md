@@ -15,6 +15,10 @@ List of projects:
 * [**ReadingSensorsArray**](https://github.com/Brabn/ReadingSensorsArray/) - System designed to reading an array of analog sensors and display the results matrix in a convenient form (on a PC screen)
 * [**UltrasonicAarmSystem**](https://github.com/Brabn/UltrasonicAarmSystem/) - Alarm system with ultrasonic proximity sensors
 * [**WirelessMotorControl**](https://github.com/Brabn/WirelessMotorControl/) - Wireless Motor Control System for turning security cameras, opening gates, blinds or solar panels
+* [**EmetgencyTempretureShutdown**](https://github.com/Brabn/EmetgencyTempretureShutdown/) - Load shedding system based on wireless infrared temperature sensor readings
+* [**SolarPanelTracker**](https://github.com/Brabn/SolarPanelTracker/) - Automatic solar panel tracker for rotaion panel based on illumination measurement
+* [**EscapeRoomBriefcase**](https://github.com/Brabn/EscapeRoomBriefcase/) - Briefcase with riddles to use in escape room amusement.
+*  [**FaceRecognitionLock**](https://github.com/Brabn/FaceRecognitionLock/) Door lock with face recognition for opening according to the image from the entrance camera
   
 <!---
 Barabaniuk/Barabaniuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
