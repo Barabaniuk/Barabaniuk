@@ -18,7 +18,8 @@ List of projects:
 * [**EmetgencyTempretureShutdown**](https://github.com/Brabn/EmetgencyTempretureShutdown/) - Load shedding system based on wireless infrared temperature sensor readings
 * [**SolarPanelTracker**](https://github.com/Brabn/SolarPanelTracker/) - Automatic solar panel tracker for rotaion panel based on illumination measurement
 * [**EscapeRoomBriefcase**](https://github.com/Brabn/EscapeRoomBriefcase/) - Briefcase with riddles to use in escape room amusement.
-*  [**FaceRecognitionLock**](https://github.com/Brabn/FaceRecognitionLock/) Door lock with face recognition for opening according to the image from the entrance camera
+*  [**FaceRecognitionLock**](https://github.com/Brabn/FaceRecognitionLock/) - Door lock with face recognition for opening according to the image from the entrance camera
+*  [**UV-3DPrinter**](https://github.com/Brabn/UV-3DPrinter/) - 3D printer for print from resin with table swing for better mixing and manual control of table lifting
   
 <!---
 Barabaniuk/Barabaniuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
