@@ -22,6 +22,8 @@ List of projects:
 * [**UV-3DPrinter**](https://github.com/Brabn/UV-3DPrinter/) - 3D printer for print from resin with table swing for better mixing and manual control of table lifting
 * [**ScoreBoard**](https://github.com/Brabn/ScoreBoard/) - Score counter with LCD screen to count board game score
 * [**BluetoothVoltageSensor**](https://github.com/Brabn/BluetoothVoltageSensor/) - Voltage and temperature sensor with readings transmitted via Bluetooth
+* [**GanttChartPulseGenerator**](https://github.com/Brabn/GanttChartPulseGenerator ) - Pulse generation system according to the configuration specified by the Gantt chart
+  
 <!---
 Barabaniuk/Barabaniuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
