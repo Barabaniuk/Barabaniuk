@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Barabaniuk
 - 👀 I’m interested in Arduino and Raspberry coding as weel as web-based and desktop application using C++, C#, Java, SQL 
 - 🌱 I’m currently learning DevOps features
-- my website: [Techi-news.com](https://techi-news.com)
+- My website: [Techi-news.com](https://techi-news.com)
 
 List of projects:
 * [**TimelapseDrone**](https://github.com/Barabaniuk/TimelapseDrone)         - Wheel Drone Control System designed for slow-motion video shooting
